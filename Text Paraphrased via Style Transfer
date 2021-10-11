@@ -1,1 +1,4 @@
-Style transfer on texts which finds its use case in sentences paraphrasing and rearrangements. This finds application in the domain of textual context conversion wherein sentences' overall meaning remains the same but their representation using a different syntax and words changes.
+Style transfer on texts which finds its use case in sentences paraphrasing and rearrangements.
+ This finds application in the domain of textual context conversion 
+wherein sentences' overall meaning remains the same 
+but their representation using a different syntax and words changes.
